@@ -1,0 +1,21 @@
+Êþº¾   4 B
+  /	  0	  1	  2	  3	  4	  5 6
+  7
+  8
+  9
+  :
+  ; 6 < WIDTH I HEIGHT DIAMETER 
+ballsWidth [I ballsHeightPosition ballsIncrementSpeed <init> ()V Code LineNumberTable LocalVariableTable this LFourBallsChallenge; main ([Ljava/lang/String;)V args [Ljava/lang/String; settings draw ball 
+StackMapTable 
+drawCircle (III)I width heightPosition incrementSpeeed height 
+SourceFile FourBallsChallenge.java               FourBallsChallenge  = #  > ? ' ( @ A processing/core/PApplet ((Ljava/lang/String;[Ljava/lang/String;)V size (II)V ellipse (FFFF)V !                                                        ^*· * µ *Xµ *
+µ *¼
+YOYOYOYOµ *¼
+YOYOYOYOµ *¼
+YOYOYOYOµ ±                    /  F 	        ^     	        5     *¸ 	±       
+      
+         ! "    #      C     *· 
+**´ *´ ¶ ±                             $      y     *<¢ %*´ **´ .*´ .*´ .¶ O„§ÿÜ±              #  )        ' %     *     &   	 ü ú &   ' (          #*´ hl6*††*´ †*´ †¶ 
+`<¬            
+    !      4    #       # )     # *     # +   
+  ,    -    .
